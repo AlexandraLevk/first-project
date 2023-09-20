@@ -1,4 +1,11 @@
 @font-face {
+  font-family: Oswald;
+  src: url(Oswald-Bold.woff2) format('woff2'), url(Oswald-Bold.woff) format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'IBM Plex Serif';
   src:
     url(https://pictures.s3.yandex.net/fonts/Ibmplexserifsemibold.woff2)
